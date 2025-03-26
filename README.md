@@ -71,26 +71,5 @@ A Flask-based web application that detects plant diseases (Tomato, Potato, Corn)
 
 ---
 
-## Project Structure
-
-
-crop-disease-pwa/
-├── app.py                    # Main Flask app
-├── static/
-│   ├── uploads/             # Where uploaded images are stored
-│   ├── images/              # Images used in web application  
-├── templates/
-│   ├── index.html           # Home page
-│   ├── tomato_upload.html   # Tomato upload page
-│   ├── potato_upload.html   # Potato upload page
-│   ├── corn_upload.html     # Corn upload page
-│   └── result.html          # Displays disease result & tips
-├── models/
-│   ├── tomato_disease_detection.h5
-│   ├── potato_disease_detection.h5
-│   └── corn_disease_detection.h5
-├── requirements.txt         # Python dependencies
-└── README.md                
-
 
 
