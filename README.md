@@ -71,5 +71,10 @@ A Flask-based web application that detects plant diseases (Tomato, Potato, Corn)
 
 ---
 
+## Project Structure
+
+![Project Strucure](project_structure.png)
+
+
 
 
